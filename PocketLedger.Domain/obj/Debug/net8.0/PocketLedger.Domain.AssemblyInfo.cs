@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PocketLedger.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788adeb775d1459734918c49d9f52b6528ab3510")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocketLedger.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocketLedger.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
