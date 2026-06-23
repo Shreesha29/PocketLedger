@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DFD8295B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketLedger.Domain", "PocketLedger.Domain\PocketLedger.Domain.csproj", "{C121C892-13E1-46E4-9229-21995DF3FFA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectLedger.Application", "ProjectLedger.Application\ProjectLedger.Application.csproj", "{561A25C8-9377-4BE9-9259-50D5D4E51630}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketLedger.Application", "ProjectLedger.Application\PocketLedger.Application.csproj", "{561A25C8-9377-4BE9-9259-50D5D4E51630}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketLedger.Infrastructure", "PocketLedger.Infrastructure\PocketLedger.Infrastructure.csproj", "{F0B778D2-84DA-4F08-95A6-4369EC22D12A}"
 EndProject

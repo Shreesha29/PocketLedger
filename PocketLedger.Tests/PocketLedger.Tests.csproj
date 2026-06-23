@@ -20,7 +20,7 @@
     <ProjectReference Include="..\PocketLedger.API\PocketLedger.API.csproj" />
     <ProjectReference Include="..\PocketLedger.Domain\PocketLedger.Domain.csproj" />
     <ProjectReference Include="..\PocketLedger.Infrastructure\PocketLedger.Infrastructure.csproj" />
-    <ProjectReference Include="..\ProjectLedger.Application\ProjectLedger.Application.csproj" />
+    <ProjectReference Include="..\ProjectLedger.Application\PocketLedger.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

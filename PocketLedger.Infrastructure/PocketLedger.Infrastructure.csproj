@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PocketLedger.Domain\PocketLedger.Domain.csproj" />
-    <ProjectReference Include="..\ProjectLedger.Application\ProjectLedger.Application.csproj" />
+    <ProjectReference Include="..\ProjectLedger.Application\PocketLedger.Application.csproj" />
   </ItemGroup>
 
 </Project>
